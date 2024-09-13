@@ -17,5 +17,6 @@ As well as this the kernel_opt_file contains the following list of functions dev
 - Percentage of small values function  which shows what percentage of true values is close to zero (useful to understanding high MAPE values).
 - Sobol sampling function.
 - Kernel to string function which enables kernels to be outputted as its names.
+- Loading and saving functions for pkl files
 - Find best kernel function is *the kernel optimisation function* developed for this study utilising greedy tree search to find the best composite kernel based on MAE.
 
