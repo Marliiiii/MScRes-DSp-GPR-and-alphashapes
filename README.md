@@ -20,3 +20,6 @@ As well as this the kernel_opt_file contains the following list of functions dev
 - Loading and saving functions for pkl files
 - Find best kernel function is *the kernel optimisation function* developed for this study utilising greedy tree search to find the best composite kernel based on MAE.
 
+note that:
+- for 2D, 3D, and GTCD the runtimes are not for Intel® CoreTM i7–13,700 CPU @ 2.10 GHz but for 1.4 GHz Quad-Core Intel Core i5
+- the long outputs of the kernel optimisation function can be commented out in the function file itself
